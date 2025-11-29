@@ -7,7 +7,7 @@
 
 **Purpose**: Project initialization and basic structure
 
-- [ ] T001 Create directory `ai-native-book/docs/04-chapter-four`
+- [x] T001 Create directory `ai-native-book/docs/04-chapter-four`
 
 ---
 
@@ -19,13 +19,13 @@
 
 ### Implementation for User Story 1
 
-- [ ] T002 [US1] Create `index.md` in `ai-native-book/docs/04-chapter-four`
-- [ ] T003 [US1] Generate the title and introduction for Chapter Four in `ai-native-book/docs/04-chapter-four/index.md`
-- [ ] T004 [US1] Generate the section "Understanding Language-Guided Reasoning" in `ai-native-book/docs/04-chapter-four/index.md`
-- [ ] T005 [US1] Generate the section "Core Components of Language-Guided Agents" in `ai-native-book/docs/04-chapter-four/index.md`
-- [ ] T006 [US1] Generate the section "Practical Implementation with ROS 2" in `ai-native-book/docs/04-chapter-four/index.md`
-- [ ] T007 [US1] Generate the section "Challenges and Future Directions" in `ai-native-book/docs/04-chapter-four/index.md`
-- [ ] T008 [US1] Generate the summary for Chapter Four in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T002 [US1] Create `index.md` in `ai-native-book/docs/04-chapter-four`
+- [x] T003 [US1] Generate the title and introduction for Chapter Four in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T004 [US1] Generate the section "Understanding Language-Guided Reasoning" in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T005 [US1] Generate the section "Core Components of Language-Guided Agents" in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T006 [US1] Generate the section "Practical Implementation with ROS 2" in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T007 [US1] Generate the section "Challenges and Future Directions" in `ai-native-book/docs/04-chapter-four/index.md`
+- [x] T008 [US1] Generate the summary for Chapter Four in `ai-native-book/docs/04-chapter-four/index.md`
 
 ---
 
