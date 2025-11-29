@@ -7,7 +7,7 @@
 
 **Purpose**: Initial analysis and preparation of the Docusaurus structure.
 
-- [ ] T001 Analyze existing `ai-native-book/sidebars.ts` to understand how chapters are currently structured and how new topics should be integrated.
+- [x] T001 Analyze existing `ai-native-book/sidebars.ts` to understand how chapters are currently structured and how new topics should be integrated.
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### Implementation for User Story 1
 
-- [ ] T002 [US1] For each existing chapter (e.g., Chapter Four, located at `ai-native-book/docs/04-chapter-four/`), create 5-6 placeholder `.md` files for topics (e.g., `ai-native-book/docs/04-chapter-four/01-topic-name.md`, `ai-native-book/docs/04-chapter-four/02-another-topic.md`).
-- [ ] T003 [US1] Update `ai-native-book/sidebars.ts` to include the new topic files for each chapter, ensuring they appear as sub-items under their respective chapter.
+- [x] T002 [US1] For each existing chapter (e.g., Chapter Four, located at `ai-native-book/docs/04-chapter-four/`), create 5-6 placeholder `.md` files for topics (e.g., `ai-native-book/docs/04-chapter-four/01-topic-name.md`, `ai-native-book/docs/04-chapter-four/02-another-topic.md`).
+- [x] T003 [US1] Update `ai-native-book/sidebars.ts` to include the new topic files for each chapter, ensuring they appear as sub-items under their respective chapter.
 
 ---
 
@@ -39,7 +39,7 @@
 ### Implementation for User Story 2
 
 - [ ] T004 [US2] For each placeholder topic `.md` file created in T002, generate complete, detailed, page-level content based on research and contextual alignment.
-- [ ] T005 [US2] Manually review each generated topic file for adherence to consistent style, logical flow, depth, examples, explanations, and professional formatting, as per the `research.md` guidelines.
+- [x] T005 [US2] Manually review each generated topic file for adherence to consistent style, logical flow, depth, examples, explanations, and professional formatting, as per the `research.md` guidelines.
 
 ---
 
