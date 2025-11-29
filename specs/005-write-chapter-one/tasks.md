@@ -7,8 +7,8 @@
 
 **Purpose**: Initial setup and title application for Chapter 1.
 
-- [ ] T001 Update `ai-native-book/docs/01-intro/index.md` with the exact title "Chapter 1: Introduction to Physical AI".
-- [ ] T002 Analyze existing `ai-native-book/sidebars.ts` to understand how chapters are currently structured and how new topics should be integrated (confirming autogeneration).
+- [x] T001 Update `ai-native-book/docs/01-intro/index.md` with the exact title "Chapter 1: Introduction to Physical AI".
+- [x] T002 Analyze existing `ai-native-book/sidebars.ts` to understand how chapters are currently structured and how new topics should be integrated (confirming autogeneration).
 
 ---
 
@@ -26,13 +26,13 @@
 
 ### Implementation for User Story 1
 
-- [ ] T003 [US1] Create 5 placeholder `.md` files for topics within `ai-native-book/docs/01-intro/`:
+- [x] T003 [US1] Create 5 placeholder `.md` files for topics within `ai-native-book/docs/01-intro/`:
     - `ai-native-book/docs/01-intro/01-what-is-physical-ai.md`
     - `ai-native-book/docs/01-intro/02-why-physical-ai-matters.md`
     - `ai-native-book/docs/01-intro/03-key-components.md`
     - `ai-native-book/docs/01-intro/04-ai-in-physical-ai.md`
     - `ai-native-book/docs/01-intro/05-challenges-and-opportunities.md`
-- [ ] T004 [US1] Verify that the new topic files are automatically integrated into the Docusaurus sidebar navigation for Chapter 1.
+- [x] T004 [US1] Verify that the new topic files are automatically integrated into the Docusaurus sidebar navigation for Chapter 1.
 
 ---
 
@@ -44,8 +44,8 @@
 
 ### Implementation for User Story 2
 
-- [ ] T005 [US2] For each placeholder topic `.md` file created in T003, generate complete, detailed, page-level content, adhering to word count (800-1200 words), foundational approach, illustrative examples/hypothetical scenarios for case studies, and other quality requirements.
-- [ ] T006 [US2] Manually review each generated topic file for adherence to consistent style, logical flow, depth, examples, explanations, and professional formatting, as per the `research.md` guidelines.
+- [x] T005 [US2] For each placeholder topic `.md` file created in T003, generate complete, detailed, page-level content, adhering to word count (800-1200 words), foundational approach, illustrative examples/hypothetical scenarios for case studies, and other quality requirements.
+- [x] T006 [US2] Manually review each generated topic file for adherence to consistent style, logical flow, depth, examples, explanations, and professional formatting, as per the `research.md` guidelines.
 
 ---
 
